@@ -10,3 +10,5 @@ title:            Tal and Neela
 tagline:          ''
 description:      ''
 url:              http://hyde.getpoole.com
+
+paginate:         5

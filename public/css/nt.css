@@ -1,5 +1,5 @@
-@media (min-width: 75em) {
-  .post > p:last-child img {
+@media (min-width: 77em) {
+  img[alt*='2up'] {
     width: 47%;
     float: left;
     margin-right: 1em

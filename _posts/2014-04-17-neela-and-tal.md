@@ -12,8 +12,8 @@ Then in fall, Neela and Tal had both signed up on OK Cupid (an online dating sit
 
 In spring of 2013 after many dates, plenty of playtime with Makai (Neela's 8 year old son), and a few poems-- Tal moved in with Neela and Makai. And easily yet gently the three have become a family. 
 
-![neela and tal with a mandolin](/img/neelatalmando.jpg)
-![neela, tal and makai](/img/ntm.jpg)
+![neela and tal with a mandolin (2up)](/img/neelatalmando.jpg)
+![neela, tal and makai (2up)](/img/ntm.jpg)
 
 One year later, a few days before Neela's second trip and Makai's first trip to visit Tal's family in California, Tal proposed with an eloquent and silly poem---that included:
 
@@ -54,5 +54,5 @@ and cleanse our souls and our earth
 
 Neela was surprised, touched, tickled, and totally excited—and of course, wholeheartedly said yes!
 
-![neela and tal in the woods, birch trees](/img/nt-woods.jpg)
-![neela, tal, and makai in the woods, birch trees](/img/ntm-woods.jpg) 
+![neela and tal in the woods, birch trees (2up)](/img/nt-woods.jpg)
+![neela, tal, and makai in the woods, birch trees (2up)](/img/ntm-woods.jpg) 

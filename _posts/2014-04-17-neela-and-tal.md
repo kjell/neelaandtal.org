@@ -52,4 +52,7 @@ and cleanse our souls and our earth
 
 > Neela, will you marry me?
 
-Neela was surprised, touched, tickled, and totally excited-and of course, wholeheartedly said yes!
+Neela was surprised, touched, tickled, and totally excited—and of course, wholeheartedly said yes!
+
+![neela and tal in the woods, birch trees](/img/nt-woods.jpg)
+![neela, tal, and makai in the woods, birch trees](/img/ntm-woods.jpg) 

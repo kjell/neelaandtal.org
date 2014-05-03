@@ -1,0 +1,7 @@
+@media (min-width: 75em) {
+  .post > p:last-child img {
+    width: 47%;
+    float: left;
+    margin-right: 1em
+  }
+}
